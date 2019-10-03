@@ -1,1 +1,10 @@
 This the demo....
+
+class Myclass{
+
+	public static void main(String args[])
+	{
+
+	}
+
+}
