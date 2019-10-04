@@ -4,10 +4,14 @@ class Myclass{
 
 	public static void main(String args[])
 	{
-sdfsdf
+
 	}
 
 public static void myVoid{
+
+}
+
+public static void addFun{
 
 }
 
