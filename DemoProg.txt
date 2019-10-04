@@ -2,6 +2,7 @@ This the demo....
 
 class Myclass{
 
+private static int MAX_COUNT = 10;
 	public static void main(String args[])
 	{
 
